@@ -14,7 +14,7 @@ import nextjs from "../assets/nextjs.png";
 import Hackthechain from "../assets/HackTheChainLogo.png";
 import GSSOC from "../assets/GSSoc.jpg";
 import IITB from "../assets/IITB.png";
-import Sports from "../assets/Sports_Club.png";
+
 import IIITians from "../assets/IIITians_Network.png";
 import efficient from "../assets/efficient.jpg";
 import KDE from "../assets/kde.png";
@@ -42,7 +42,6 @@ export {
   Hackthechain,
   GSSOC,
   IITB,
-  Sports,
   IIITians,
   GPT4,
   Portfolio,
