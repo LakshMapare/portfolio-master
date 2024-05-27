@@ -1,11 +1,11 @@
 import Lottie from "lottie-react";
-import educationAnimation from "../assets/lottie/education.json";
+import educationAnimation from '../assets/lottie/education.json';
 import csmss from "../assets/csmss.jpg";
 import AOS from "aos";
 import "aos/dist/aos.css";
 import { useEffect } from "react";
 
-const Education = () => {
+const MyEducation = () => {
   useEffect(() => {
     AOS.init();
   }, []);
@@ -58,4 +58,4 @@ const Education = () => {
     </section>
   );
 };
-export default Education;
+export default MyEducation;

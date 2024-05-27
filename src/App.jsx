@@ -1,7 +1,7 @@
 import Navbar from "./components/Navbar";
 import About from "./components/About";
 import Experience from "./components/Experience";
-import Education from "./components/Education";
+import MyEducation from "./components/MyEducation";
 import Projects from "./components/Projects";
 import Contact from "./components/Contact";
 import HashLoader from "react-spinners/HashLoader";
@@ -23,7 +23,7 @@ const App = () => {
     setLoading(true);
     setTimeout(() => {
       setLoading(false);
-    }, 0);
+    },3000);
   }, []);
   return (
     <>
@@ -43,7 +43,7 @@ const App = () => {
           <Navbar></Navbar>
           <About></About>
           <Experience></Experience>
-          <Education></Education>
+          <MyEducation></MyEducation>
           <Projects></Projects>
           <Contact></Contact>
         </div>
