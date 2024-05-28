@@ -1,5 +1,5 @@
 import Lottie from "lottie-react";
-import educationAnimation from '../assets/lottie/education.json';
+import educationAnimation from '../assets/lottie/Education.json';
 import csmss from "../assets/csmss.jpg";
 import AOS from "aos";
 import "aos/dist/aos.css";
