@@ -12,7 +12,7 @@ import react from "../assets/React.png";
 import nextjs from "../assets/nextjs.png";
 
 import Hackthechain from "../assets/HackTheChainLogo.png";
-import GSSOC from "../assets/GSSoc.jpg";
+import GSSOC from "../assets/GSSoC.jpg";
 import IITB from "../assets/IITB.png";
 
 import IIITians from "../assets/IIITians_Network.png";
