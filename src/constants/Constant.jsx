@@ -21,7 +21,7 @@ import KDE from "../assets/kde.png";
 import Oppia from "../assets/oppia.png";
 
 import GPT4 from "../assets/gpt4.jpg";
-import Portfolio from "../assets/portfolio.jpg";
+import Hoobank from "../assets/Hoobank.png";
 import cynthia from "../assets/cynthia.png";
 import quiz from "../assets/quiz.png";
 import WellBeing from "../assets/well-being.jpg";
@@ -44,7 +44,7 @@ export {
   IITB,
   IIITians,
   GPT4,
-  Portfolio,
+  Hoobank,
   cynthia,
   WellBeing,
   quiz,
