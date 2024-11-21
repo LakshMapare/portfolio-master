@@ -20,8 +20,8 @@ const Contact = () => {
               Laxmikant Mapare
             </h2>
             <p className="text-gray-600 dark:text-slate-400 leading-[30.8px] mt-7 max-w-[400px] max-sm:text-center">
-              Efficient globtech solution pvt. ltd. | Frontend devloper-
-              React devloper | Pune MH.
+             Absolute Web Services Pvt. Ltd. | Frontend devloper-
+              React devloper | 
             </p>
             <div className="SOCIALS text-[#00040f] dark:text-white text-2xl flex gap-7 mt-5 max-sm:justify-evenly">
               <a
