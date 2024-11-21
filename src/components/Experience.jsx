@@ -49,13 +49,13 @@ const Experience = () => {
               date="January 2023 "
               para="- SoK'24 mentee for the cantor project converting the documentation for several programming languages into QT Help files. "
             />
-            <Exp_prop
+{/*             <Exp_prop
               img={efficient}
               title="Efficient globtech solution"
               subtitle="React.js devloper"
               date="Oct 2021 - present"
               para="- Web Development Lead in Efficient globtech solution pvt. ltd. Pune"
-            />
+            /> */}
             
           </div>
         </div>
