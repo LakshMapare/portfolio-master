@@ -28,7 +28,7 @@ const MyEducation = () => {
               <img
                 src={csmss}
                 alt="csmss"
-                className="w-[90px] h-[90px] rounded-lg"
+                className="w-[90px] h-[90px] rounded-md"
               />
               <h1 className="bg-clip-text text-transparent bg-gradient-to-r max-sm:text-[17px] from-amber-500 via-orange-600 to-yellow-500 dark:from-[#ff6600] dark:to-slate-100 font-semibold text-2xl w-[300px] h-[100px] tracking-wider ">
                 Csmss Collage of Engineering Aurangabad MH.
